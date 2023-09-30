@@ -1,1 +1,1 @@
-# social_cognition
+# sentence_task
